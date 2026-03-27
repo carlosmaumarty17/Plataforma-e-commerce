@@ -3,8 +3,7 @@
 🚀 **¡El momento ha llegado!**  
 Hoy libero el código fuente de **Active Super Shop**, una potente y flexible plataforma de **e-commerce open source** desarrollada en PHP. Ideal para emprendedores, pequeñas empresas y desarrolladores que buscan vender en línea de manera profesional y sin restricciones.
 
-🔗 [Descubre la plataforma aquí](https://anthoncode.com/plataforma-seven-e-commerce-de...)
-
+🔗 [Descubre la plataforma aquí](http://activesupershop.carlosmaumartinez.com/seven/?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPMjc1MjU0NjkyNTk4Mjc5AAEeNuqZoyoQGdxeYFeVp3wVLQ25YODhLLnB9Yie8sVyhoQpP9KqGM7-ZCLp1Lg_aem_fRw8imLokvZaJtyCOuxJBw)
 ---
 
 ## 🛒 ¿Qué Puedes Vender?
